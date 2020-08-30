@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": " http://mdmusaib.github.io/covid19/static/css/main.7d27b001.chunk.css",
+    "main.js": " http://mdmusaib.github.io/covid19/static/js/main.51c17a7c.chunk.js",
+    "main.js.map": " http://mdmusaib.github.io/covid19/static/js/main.51c17a7c.chunk.js.map",
+    "runtime-main.js": " http://mdmusaib.github.io/covid19/static/js/runtime-main.ff9e835a.js",
+    "runtime-main.js.map": " http://mdmusaib.github.io/covid19/static/js/runtime-main.ff9e835a.js.map",
+    "static/js/2.c93abf83.chunk.js": " http://mdmusaib.github.io/covid19/static/js/2.c93abf83.chunk.js",
+    "static/js/2.c93abf83.chunk.js.map": " http://mdmusaib.github.io/covid19/static/js/2.c93abf83.chunk.js.map",
+    "index.html": " http://mdmusaib.github.io/covid19/index.html",
+    "precache-manifest.3e141b79c30d9c558988f5724fa37d80.js": " http://mdmusaib.github.io/covid19/precache-manifest.3e141b79c30d9c558988f5724fa37d80.js",
+    "service-worker.js": " http://mdmusaib.github.io/covid19/service-worker.js",
+    "static/css/main.7d27b001.chunk.css.map": " http://mdmusaib.github.io/covid19/static/css/main.7d27b001.chunk.css.map",
+    "static/js/2.c93abf83.chunk.js.LICENSE.txt": " http://mdmusaib.github.io/covid19/static/js/2.c93abf83.chunk.js.LICENSE.txt",
+    "static/media/App.scss": " http://mdmusaib.github.io/covid19/static/media/archia-thin-webfont.e88f1cf3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff9e835a.js",
+    "static/js/2.c93abf83.chunk.js",
+    "static/css/main.7d27b001.chunk.css",
+    "static/js/main.51c17a7c.chunk.js"
+  ]
+}
